@@ -4,8 +4,9 @@ engines:
     channel: java
 ratings:
   paths:
-    - "**java"
+    - "**.java"
 exclude_paths:
   - "**.py*"
   - "**.js"
+  - "**.jsx"
   - "**.rb"
